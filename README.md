@@ -8,21 +8,21 @@ Projeto desenvolvido durante a NextLevelWeek da Rocketseat e tem o objetivo de c
 
 1. Clone o projeto utilizando o comando
 
-```git clone https://github.com/ana2pn/Ecoleta-NextLevelWeek.git```
+   `git clone https://github.com/ana2pn/Ecoleta-NextLevelWeek.git`
 
 2. Abra o terminal do seu computador dentro da pasta Ecoleta-NextLevelWeek.
 
 3. Entre na pasta server pelo terminal digitando o comando
 
- `cd server`
+    `cd server`
  
 4. Dentro da pasta server, inicialize o servidor através do comando
 
-`npm run dev`
+   `npm run dev`
 
 5. Entre na pasta web inicialize a aplicação no browser através do comando
 
-`npm start`
+   `npm start`
 
 
 OBS: Para instalar as dependências do projeto digite `npm i`
